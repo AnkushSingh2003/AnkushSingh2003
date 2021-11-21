@@ -1,8 +1,7 @@
 - 👋 Hi, I’m Ankush Singh
 - 👀 I’m interested in making Websites by using html, css and javascript
 - 🌱 I’m currently learning C and C++
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I will make some projects on C language
 
 <!---
 AnkushSingh2003/AnkushSingh2003 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
